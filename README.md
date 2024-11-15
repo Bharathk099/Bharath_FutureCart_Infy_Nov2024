@@ -1,1 +1,1 @@
-# Bharath_FutureCart_Infy_Nov2024
+# FutureCart: AI-Driven Demand Prediction for Smarter Retail
